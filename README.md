@@ -1,4 +1,4 @@
-# Lab-06 - Rock, Paper, Scissors
+# Rock, Paper, Scissors
 In this lab you will write a Python game to play Rock, Paper, Scissors against the computer.  This exercise is intended to get you introduced to looping for user input, and generally, more familiarity with Python and thinking like a coder.
 
 # Background
